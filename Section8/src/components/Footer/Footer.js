@@ -8,7 +8,7 @@ const Footer = () => {
         <a href="https://www.udemy.com/course/react-the-complete-guide-incl-redux/">
           この講座
         </a>
-        のLesson6,7の内容(potal, ref, Fragmentなど)
+        のLesson8,9の内容(potal, ref, Fragmentなど)
       </p>
     </div>
   );
