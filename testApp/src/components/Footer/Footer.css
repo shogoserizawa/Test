@@ -1,0 +1,12 @@
+.footer {
+    padding-top: 170px;
+    padding-bottom: 50px;
+    height: 80px;
+    width: 100%;
+    color: gray;
+    text-align: center;
+}
+
+a{
+    color: skyblue;
+}
